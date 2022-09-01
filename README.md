@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RangelCR
+- 👋 Hi, I’m Henrique Rangel
 - 👀 I’m interested in ... Development and DevOps
 - 🌱 I’m currently learning ... C#, Linux
 - 💞️ I’m looking to collaborate on ...
