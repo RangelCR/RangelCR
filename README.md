@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique Rangel
-- 👀 I’m interested in ... Development and DevOps
-- 🌱 I’m currently learning ... C#, Linux
+- 👀 I’m interested in ... Devops
+- 🌱 I’m currently learning ... Linux, Network, Git, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... hrangel584@gmail.com/ Linkedin: https://www.linkedin.com/in/henrique-rangel-11933a201/
 
